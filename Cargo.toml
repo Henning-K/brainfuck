@@ -1,0 +1,13 @@
+[package]
+name = "brainfuck"
+version = "0.1.0"
+authors = ["Henning-K <henning.kowalk962@web.de>"]
+
+[[bin]]
+name = "brainfuck"
+
+[lib]
+name = "brainfuck"
+
+[dependencies]
+getopts = "0.*"
